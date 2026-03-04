@@ -3,7 +3,9 @@
 
 Java SE + Swing + Oracle 19c + JFreeChart:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ab196a8-eb0a-4c45-a93c-a56ad1615856" />      
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ab196a8-eb0a-4c45-a93c-a56ad1615856" />    
+
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/4d96f535-aed5-40d9-8251-7dca7fd1dd7b" />    
 
 ```
 Proyecto académico/profesional desarrollado en Java (IntelliJ) con:
