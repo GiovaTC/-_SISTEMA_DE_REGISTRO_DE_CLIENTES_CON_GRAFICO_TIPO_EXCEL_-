@@ -30,4 +30,4 @@ public class Cliente {
     public String getTipoCliente() {
         return tipoCliente;
     }
-}   
+}
