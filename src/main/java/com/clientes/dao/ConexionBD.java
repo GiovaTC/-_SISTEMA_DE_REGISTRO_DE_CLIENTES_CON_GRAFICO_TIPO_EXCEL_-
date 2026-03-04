@@ -12,4 +12,4 @@ public class ConexionBD {
     public static Connection getConexion() throws Exception {
         return DriverManager.getConnection(URL, USER, PASS);
     }
-}   
+}
