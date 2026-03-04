@@ -16,4 +16,4 @@ public class ClienteService {
     public Map<String, Integer> obtenerEstadisticas() throws Exception {
         return dao.obtenerEstadisticas();
     }
-}   
+}
